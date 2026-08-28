@@ -1,16 +1,27 @@
-## Hi there 👋
+# Alpha Guyasa
 
-<!--
-**Alphaguyasa/Alphaguyasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack and Android engineer based in Addis Ababa. I build offline-first software for environments where connectivity is intermittent and the interface has to work in Amharic and Afaan Oromoo as well as in English.
 
-Here are some ideas to get you started:
+Available for freelance and contract work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+| Area | Stack |
+| --- | --- |
+| Web | Next.js 15, React, TypeScript, Supabase / PostgreSQL, PWA (Serwist, Dexie) |
+| Android | Kotlin, Jetpack Compose, Hilt, Room, multi-module Gradle |
+| Applied AI | Retrieval-augmented search, pgvector, embedding pipelines, evaluation harnesses |
+| Connectivity | Offline-first sync, Bluetooth LE, Wi-Fi Direct, Nearby Connections |
+
+## Selected work
+
+| Project | Description |
+| --- | --- |
+| ethiopic-text | Normalization and search for Ethiopic script, folding homophones so spelling variants match. Zero dependencies, MIT. |
+| Suq | Offline-first point-of-sale and inventory PWA for Ethiopian shops. Next.js 15, Dexie, Supabase, Serwist. |
+| Mezgeb | Mobile money reconciliation for Android. Kotlin, Compose, Hilt, Room, with a pure-JVM parser module. |
+| NullChat | Peer-to-peer messaging over Bluetooth LE and Wi-Fi Direct, with no network connection required. |
+
+## Contact
+
+Portfolio: https://alpha-guyasa-portfolio.vercel.app
