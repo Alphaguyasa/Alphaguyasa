@@ -24,4 +24,4 @@ Available for freelance and contract work.
 
 ## Contact
 
-Portfolio: https://alpha-guyasa-portfolio.vercel.app
+Portfolio: https://alpha-guy.vercel.app
